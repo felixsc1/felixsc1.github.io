@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Felix Schlegel"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Neuroscientist. Aspiring Data Scientist"
+  bio              : "Neuroscientist and aspiring Data Scientist"
   location         : "Zürich, Switzerland"
   email            :
   uri              :
