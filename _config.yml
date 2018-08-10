@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-EN"
-title                    : "Felix Schlegel"
+title                    : "Welcome to my personal website"
 title_separator          : "-"
 name                     : "Felix Schlegel"
 description              : "Portfolio and Blog"
@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Felix Schlegel"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Neuroscientist and aspiring Data Scientist"
+  bio              : "Neuroscientist / Data Scientist"
   location         : "Zürich, Switzerland"
   email            :
   uri              :
