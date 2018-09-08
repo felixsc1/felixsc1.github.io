@@ -5,7 +5,7 @@ tags: [conferences, data science, python]
 header:
 exerpt: "Python, Science, and beautiful scenery"
 ---
-[![N|scipy](https://www.euroscipy.org/theme/images/euroscipy_logo.png)](https://euroscipy.org)
+<img src="https://www.euroscipy.org/theme/images/euroscipy_logo.png" alt="scipylogo" width="150px"/>
 
 Last week I attended my first Python conference ever, and I must say I am impressed. I'm used to big neuroscience conferences where people are usually quite secretive about their exact methods or present outdated results so as not to give the competition any advantage. At the EuroSciPy everyone was so eager to share the source code of their work and offer support to anyone who wants to use their tools.
 
